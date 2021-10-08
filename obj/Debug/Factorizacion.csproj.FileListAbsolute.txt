@@ -1,0 +1,7 @@
+C:\Users\yeyok\source\repos\Factorizacion\bin\Debug\Factorizacion.exe.config
+C:\Users\yeyok\source\repos\Factorizacion\bin\Debug\Factorizacion.exe
+C:\Users\yeyok\source\repos\Factorizacion\bin\Debug\Factorizacion.pdb
+C:\Users\yeyok\source\repos\Factorizacion\obj\Debug\Factorizacion.csprojAssemblyReference.cache
+C:\Users\yeyok\source\repos\Factorizacion\obj\Debug\Factorizacion.csproj.CoreCompileInputs.cache
+C:\Users\yeyok\source\repos\Factorizacion\obj\Debug\Factorizacion.exe
+C:\Users\yeyok\source\repos\Factorizacion\obj\Debug\Factorizacion.pdb
