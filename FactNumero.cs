@@ -10,7 +10,8 @@ namespace Factorizacion
     {
         private int i, j;
         private int num;
-        private int[] facts = new int [50];
+        private int[] facts =  new int [50];
+        private int pt;
 
         public FactNumero() {
             
